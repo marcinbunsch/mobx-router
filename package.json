@@ -35,6 +35,7 @@
   },
   "homepage": "https://github.com/kitze/mobx-router#readme",
   "dependencies": {
+    "@types/react": "^19.0.12",
     "director": "1.2.8",
     "query-string": "^6.13.1"
   },
@@ -62,7 +63,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "ts-jest": "^25.4.0",
-    "typescript": "^3.8.3"
+    "typescript": "^5.3.3"
   },
   "lint-staged": {
     "*.{ts, tsx}": [
